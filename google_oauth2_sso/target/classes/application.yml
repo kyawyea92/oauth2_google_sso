@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: google_oauth2_sso
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 602602811659-hb3pul9dc48uf90k4lj2i0lj0b2j1lr1.apps.googleusercontent.com
+            clientSecret: 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
